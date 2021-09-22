@@ -1,0 +1,16 @@
+.body-b {
+	align-items: flex-start;
+	background-color: var(--white);
+	display: flex;
+	flex-direction: column;
+	height: 1662px;
+	mix-blend-mode: normal;
+	padding: 120px 56px;
+	width: 1440px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:400|Montserrat:400,700,500");
+* {
+	box-sizing: border-box;
+}

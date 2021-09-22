@@ -1,0 +1,6 @@
+npm install axios
+npm install react-router-dom
+npm install react-facebook-login (use --force if needed)
+npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome

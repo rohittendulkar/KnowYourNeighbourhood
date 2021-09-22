@@ -1,0 +1,15 @@
+.frame-2 {
+	background-image: url(../assets/map.png);
+	background-position: 50% 50%;
+	background-size: cover;
+	height: 769px;
+	mix-blend-mode: normal;
+	width: 1536px;
+}
+.contact-form {
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60bb5efd2727910bbcf65ebf/img/frame-1-1@1x.png);
+	background-size: 100% 100%;
+	height: 905px;
+	width: 1536px;
+	margin-bottom: 10%;
+}
